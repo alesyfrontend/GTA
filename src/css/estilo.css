@@ -2,7 +2,9 @@
 
 
 body {
-	background-color: #282828;
+	/*background-color: #282828;*/
+	background: rgb(157,90,2);
+background: linear-gradient(90deg, rgba(157,90,2,1) 0%, rgba(235,184,13,1) 50%, rgba(157,90,2,1) 100%);
 	color: #fff;
 }
 
@@ -51,8 +53,7 @@ gap: 30px;
 	height: 100%;
 	width: 100%;
 	background: linear-gradient(90deg, rgba(0, 0, 0, .85), rgba(0, 0, 0, .7) 35%, transparent 65%);
-
-
+	
 }
 
 .home .imagem-fundo{
